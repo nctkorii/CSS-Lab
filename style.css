@@ -1,0 +1,49 @@
+#button{
+    opacity: 0.8;
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+    height: 200px;
+    box-shadow: 10px 10px 20px 15px black;
+}
+
+#waterLillies{
+    opacity: 0.5;
+    margin-left: 100px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    box-shadow: 10px 0px 10px 10px black;
+}
+
+#card{
+    text-align: center;
+    margin-top: 20px;  
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 20px gray;
+
+}
+
+#radical{
+    margin-top: 20px;  
+    width: 200px;
+    height: 200px;
+    background-image: radial-gradient(yellow 30%, green);
+    text-align: center;
+}
+
+#leftrightGradient{
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    background-image: linear-gradient(to right,blue, green);
+}
+
+body{
+    background-image: linear-gradient( yellow, red);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
